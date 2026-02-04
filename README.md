@@ -180,7 +180,7 @@ Features:
 ## Installation
 
 bash
-git clone https://github.com/Ganesh Bachalakuri/churn-prediction.git
+git clone https://github.com/Ganesh Bachalakuri /churn-prediction.git
 cd churn-prediction
 
 
