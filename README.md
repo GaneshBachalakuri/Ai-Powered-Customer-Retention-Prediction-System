@@ -7,15 +7,14 @@ The project covers data preprocessing, feature engineering, model training, eval
 
 Customer churn prediction is a classification problem aimed at identifying customers who are likely to discontinue a service.
 
-This project implements:
+### Dataset Overview
 
-* Data cleaning and preprocessing
-* Advanced feature transformation
-* Outlier handling
-* Class imbalance treatment
-* Model comparison across multiple algorithms
-* Final model selection and persistence
-* Deployment using Flask
+The dataset consists of 7,043 customer records with 23 features capturing demographic details, service subscriptions, billing information, and account tenure.
+It includes both categorical and numerical variables such as contract type, internet service, monthly charges, total charges, SIM provider, and join year.
+The target variable, Churn, indicates whether a customer discontinued the service, making the dataset suitable for supervised classification modeling.
+This structured customer-level data supports comprehensive analysis of behavioral patterns influencing churn.
+
+
 
 ## Project Architecture
 
